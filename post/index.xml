@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Welcome to my first hugo site </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
+    <link>https://piggyhuang2.github.io/welcome/post/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Fri, 10 Feb 2017 13:23:37 EST</updated>
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://piggyhuang2.github.io/welcome/post/welcome/</link>
+      <pubDate>Fri, 10 Feb 2017 13:23:37 EST</pubDate>
+      
+      <guid>https://piggyhuang2.github.io/welcome/post/welcome/</guid>
+      <description>&lt;p&gt;The core of extensible programming is defining functions. Python allows mandatory and optional arguments, keyword arguments, and even arbitrary argument lists.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

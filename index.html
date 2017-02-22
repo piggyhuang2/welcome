@@ -23,13 +23,28 @@
 </head>
 
     <body>
-	 <script>
-        //Google Tag Manager datalayer
-        dataLayer = [];    
-        dataLayer.push({
-            'pageCategory': 'Statistics',
-	    'visitorType': 'high-value'
-        });    
+	  <script>
+        //Google Tag Manager
+        dataLayer = [];
+   
+       dataLayer.push({
+            'ecommerce': {
+                'purchase': {
+                    'actionField': {
+                        'id': '0721977119',
+                        'affiliation': 'Online Store',
+                        'revenue': '84.78',
+                        'tax': '4.80',
+                        'shipping': '0.00',
+                        'coupon': 'savealot'
+                     },
+                    'products':[{'name': 'EveryDrop™ Ice & Water Refrigerator Filter 7','id': 'EDR7D1','isSubscription: '0','price': '49.99','category': 'Refrigerator','color': '','pack-size': 'one-pack','quantity': 1},{'name': 'Amana Refrigerator Replacement Water Filter','id': 'WF401S','isSubscription: '0','price': '49.99','category': 'Refrigerator','color': '','pack-size': 'one-pack','quantity': 1}]
+                }
+            }
+        });
+    
+  
+
     </script>
 	<!-- Google Tag Manager (noscript) -->
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KVNXBL"
